@@ -1,7 +1,7 @@
 # hello-world
 
 There **are** different Markdown elements *in* this sentence. [^1] <br/>
-So funny 😹
+==So funny== 😹
 
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
